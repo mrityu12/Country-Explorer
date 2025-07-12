@@ -61,6 +61,7 @@ Copy code
 
 ![UI Screenshot](https://github.com/mrityu12/Country-Explorer/blob/main/Screenshot%202025-07-12%20120511.png)
 
+![UI Screenshot](https://github.com/mrityu12/Country-Explorer/blob/main/Screenshot%202025-07-12%20120539.png)
 ---
 
 ## ⚠️ Note
