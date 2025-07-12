@@ -59,7 +59,7 @@ Copy code
 
 ## 📷 Screenshots
 
-![UI Screenshot](https://via.placeholder.com/800x400?text=Screenshot+Here)
+![UI Screenshot](https://github.com/mrityu12/Country-Explorer/blob/main/Screenshot%202025-07-12%20120511.png)
 
 ---
 
